@@ -1,4 +1,4 @@
-package com.example.lab4q1;
+package com.example.lab_exercises;
 
 import androidx.appcompat.app.AppCompatActivity;
 
